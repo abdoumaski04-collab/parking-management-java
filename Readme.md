@@ -4,8 +4,7 @@ Application Java de gestion de parking avec interface graphique Swing dark mode.
 
 ## 📸 image de l'interface
 
-![img_1.png](img_1.png)
-
+![Interface](img.png)
 ## ✨ Fonctionnalités
 
 - Entrée et sortie de voitures avec formulaire
